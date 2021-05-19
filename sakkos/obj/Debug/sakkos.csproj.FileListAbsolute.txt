@@ -1,0 +1,6 @@
+D:\Oravecz Zsolt\2_ora\sakkos\sakkos\bin\Debug\sakkos.exe.config
+D:\Oravecz Zsolt\2_ora\sakkos\sakkos\bin\Debug\sakkos.exe
+D:\Oravecz Zsolt\2_ora\sakkos\sakkos\bin\Debug\sakkos.pdb
+D:\Oravecz Zsolt\2_ora\sakkos\sakkos\obj\Debug\sakkos.csprojResolveAssemblyReference.cache
+D:\Oravecz Zsolt\2_ora\sakkos\sakkos\obj\Debug\sakkos.exe
+D:\Oravecz Zsolt\2_ora\sakkos\sakkos\obj\Debug\sakkos.pdb
